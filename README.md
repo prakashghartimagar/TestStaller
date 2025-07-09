@@ -1,2 +1,2 @@
 # TestStaller
-For the personal use this repo hahah.
+For the personal use this repo.
